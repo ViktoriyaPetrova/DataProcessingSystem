@@ -1,18 +1,21 @@
 # ChocAn Application
-Chocoholics Anonymous (ChocAn) is an organization dedicated to providing healthcare services for individuals battling chocolate addiction. ChocAn aims to develop a data processing system that will aid in the delivery and recording of this quality care. The intent of this system is to provide a comprehensible interface for healthcare providers to record the healthcare services they administer to ChocAn members. 
+
+Chocoholics Anonymous (ChocAn) is an organization dedicated to providing healthcare services for individuals battling chocolate addiction. ChocAn aims to develop a data processing system that will aid in the delivery and recording of this quality care. The intent of this system is to provide a comprehensible interface for healthcare providers to record the healthcare services they administer to ChocAn members.
+
 # Documents
+
 <ul>
-  <li><a href="https://github.com/jonathantnguyen/ChocAnApplication/blob/ca5d3bb006cf8fac27a1ba72d84ade2b6dfadd0e/documentation/Term%20project.pdf">Term Project Information</a></li>
-  <li><a href="https://github.com/jonathantnguyen/ChocAnApplication/blob/ca5d3bb006cf8fac27a1ba72d84ade2b6dfadd0e/documentation/Project%20Report.pdf">Project Report Information</a></li>
-  <li><a href="https://github.com/jonathantnguyen/ChocAnApplication/blob/ca5d3bb006cf8fac27a1ba72d84ade2b6dfadd0e/documentation/Requirements_CS300_Group6.pdf">Requirements Document</a></li>
-  <li><a href="https://github.com/jonathantnguyen/ChocAnApplication/blob/ca5d3bb006cf8fac27a1ba72d84ade2b6dfadd0e/documentation/Design_CS300_Group6.pdf">Design Document</a></li>
+  <li><a href="https://github.com/ViktoriyaPetrova/DataProcessingSystem/blob/main/doc/Term%20project.pdf">Term Project Information</a></li>
+  <li><a href="https://github.com/ViktoriyaPetrova/DataProcessingSystem/blob/main/doc/Project%20Report.pdf">Project Report Information</a></li>
+  <li><a href="https://github.com/ViktoriyaPetrova/DataProcessingSystem/blob/main/doc/Requirements_CS300_Group6.pdf">Requirements Document</a></li>
+  <li><a href="https://github.com/ViktoriyaPetrova/DataProcessingSystem/blob/main/doc/Design_CS300_Group6.pdf">Design Document</a></li>
   <li><a href="https://docs.google.com/document/d/1uKMkHg7ViEbVv2K1-_JYUSRkhoVDtattHwnRDPsYlGE/edit?usp=sharing">Test Plan Document</a> (Google Doc)</li> 
 </ul>
 
 ## Class UML Overview
 
-
 ## Style Guide
+
 <ul>
     <li><a href="https://google.github.io/styleguide/cppguide.html">Google's CPP Guide</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Comma-separated_values">File Import/Export</a> (.csv Wikipedia)</li>
@@ -28,7 +31,7 @@ Chocoholics Anonymous (ChocAn) is an organization dedicated to providing healthc
 </ul>
 
 ### Collaborators
- 
+
 <ul>
   <li>Anna Kawasaki (Service_List)</li>
   <li>Natasha Naylor (Directory_List)</li>
@@ -37,5 +40,3 @@ Chocoholics Anonymous (ChocAn) is an organization dedicated to providing healthc
   <li>Calico Randall (Members/Provider/Manager)</li>
   <li>Andy Truong (Member_List)</li>
 </ul>
-
- 
